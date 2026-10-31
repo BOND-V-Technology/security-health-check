@@ -1,0 +1,155 @@
+Security Health Check — Freeware License Agreement (EULA)
+Copyright 2026 s9881. All rights reserved.
+
+English version below; deutsche Fassung weiter unten. If the versions
+differ, the German version prevails for users in Germany, Austria and
+Switzerland; otherwise the English version prevails.
+
+===============================================================================
+ENGLISH
+===============================================================================
+
+1. Licensor and software
+   "Software" means the Security Health Check desktop application, the
+   security-health-check command-line tool, the bundled collector scripts,
+   documentation and all updates provided by s9881 ("Licensor").
+
+2. License grant
+   The Licensor grants you a free, non-exclusive, non-transferable,
+   revocable license to install and use the Software on devices that you
+   own or are authorized to administer, for private and commercial
+   purposes.
+
+3. Restrictions
+   You may not, except where mandatory law expressly permits it:
+   a) modify, translate, decompile, disassemble or otherwise reverse
+      engineer the Software, or create derivative works of it;
+   b) sell, rent, lease, sublicense or charge any fee for the Software;
+   c) redistribute the Software, except as the unmodified original
+      installation packages together with this license, and only free of
+      charge;
+   d) remove or alter copyright notices, this license or the third-party
+      notices;
+   e) present the Software, or any part of it, as your own product or as a
+      product of anyone other than the Licensor;
+   f) use the Software to examine systems you do not own or are not
+      authorized to examine.
+
+4. Third-party components
+   The Software contains open-source components (for example Flutter, the
+   Dart runtime and Dart packages). They are licensed under their own
+   licenses, which are shown in the application under "Open Source
+   Licenses", printed by "security-health-check licenses --full" and
+   included in THIRD_PARTY_NOTICES.md. Those licenses take precedence for
+   the respective components; this agreement does not restrict rights you
+   have under them.
+
+5. Use at your own risk; no warranty
+   The Software is provided free of charge "AS IS", without warranty of any
+   kind, express or implied, including fitness for a particular purpose and
+   accuracy of results. Results are indicators only and may be incomplete or
+   wrong. Suggested commands can change system settings, interrupt services
+   or remote access, delete data or make a system unbootable; you alone
+   decide whether to run them and bear the full risk.
+
+6. Limitation of liability
+   To the extent permitted by applicable law, the Licensor is not liable for
+   any damage, data loss, downtime, security incident or other consequence
+   arising from the use of, or inability to use, the Software. Liability for
+   intent and gross negligence, for injury to life, body or health, and
+   under mandatory statutory provisions (for example a product liability
+   act) remains unaffected.
+
+7. Termination
+   This license ends automatically if you breach it. You must then delete
+   all copies of the Software.
+
+8. Privacy
+   The Software works offline. It does not transmit scan results or
+   personal data to the Licensor or third parties. Only actions that you
+   start explicitly (for example refreshing package lists) contact the
+   update servers configured on your system.
+
+9. Final provisions
+   The law of the Federal Republic of Germany applies, excluding the UN
+   Convention on Contracts for the International Sale of Goods, unless
+   mandatory consumer protection law of your country of residence provides
+   otherwise. If a provision is invalid, the remaining provisions stay in
+   effect.
+
+===============================================================================
+DEUTSCH
+===============================================================================
+
+1. Lizenzgeber und Software
+   „Software" bezeichnet die Desktop-Anwendung Security Health Check, das
+   Kommandozeilen-Werkzeug security-health-check, die mitgelieferten
+   Prüfskripte, die Dokumentation sowie alle Updates von s9881
+   („Lizenzgeber").
+
+2. Nutzungsrecht
+   Der Lizenzgeber räumt dir ein kostenloses, einfaches, nicht übertragbares
+   und widerrufliches Recht ein, die Software auf Geräten zu installieren
+   und zu nutzen, die dir gehören oder die du administrieren darfst – privat
+   und gewerblich.
+
+3. Einschränkungen
+   Soweit zwingendes Recht es nicht ausdrücklich erlaubt, ist es nicht
+   gestattet:
+   a) die Software zu verändern, zu übersetzen, zu dekompilieren, zu
+      disassemblieren oder anderweitig zurückzuentwickeln oder abgeleitete
+      Werke zu erstellen;
+   b) die Software zu verkaufen, zu vermieten, zu verleasen, unterzulizenzieren
+      oder dafür Entgelt zu verlangen;
+   c) die Software weiterzugeben, außer als unveränderte Original-
+      Installationspakete zusammen mit dieser Lizenz und nur unentgeltlich;
+   d) Urheberrechtshinweise, diese Lizenz oder die Drittanbieter-Hinweise zu
+      entfernen oder zu verändern;
+   e) die Software oder Teile davon als eigenes Produkt oder als Produkt
+      einer anderen Person als des Lizenzgebers auszugeben;
+   f) die Software zur Prüfung von Systemen zu verwenden, die dir nicht
+      gehören oder für die du keine Berechtigung hast.
+
+4. Drittkomponenten
+   Die Software enthält Open-Source-Komponenten (z. B. Flutter, die
+   Dart-Laufzeit und Dart-Pakete). Für sie gelten ihre eigenen Lizenzen, die
+   in der Anwendung unter „Open-Source-Lizenzen" angezeigt, mit
+   „security-health-check licenses --full" ausgegeben und in
+   THIRD_PARTY_NOTICES.md mitgeliefert werden. Für die jeweiligen Komponenten
+   gehen diese Lizenzen vor; Rechte, die du nach ihnen hast, schränkt dieser
+   Vertrag nicht ein.
+
+5. Nutzung auf eigenes Risiko; keine Gewährleistung
+   Die Software wird kostenlos „wie besehen" bereitgestellt, ohne
+   Gewährleistung jeglicher Art, ausdrücklich oder stillschweigend,
+   einschließlich Eignung für einen bestimmten Zweck und Richtigkeit der
+   Ergebnisse. Ergebnisse sind nur Hinweise und können unvollständig oder
+   falsch sein. Vorgeschlagene Befehle können Systemeinstellungen ändern,
+   Dienste oder Fernzugriffe unterbrechen, Daten löschen oder ein System
+   unbootbar machen; allein du entscheidest über ihre Ausführung und trägst
+   das volle Risiko.
+
+6. Haftungsbeschränkung
+   Soweit gesetzlich zulässig, haftet der Lizenzgeber nicht für Schäden,
+   Datenverlust, Ausfallzeiten, Sicherheitsvorfälle oder sonstige Folgen aus
+   der Nutzung oder Nichtnutzbarkeit der Software. Die Haftung für Vorsatz
+   und grobe Fahrlässigkeit, für Schäden aus der Verletzung von Leben, Körper
+   oder Gesundheit sowie nach zwingenden gesetzlichen Vorschriften (z. B. dem
+   Produkthaftungsgesetz) bleibt unberührt. Bei unentgeltlicher Überlassung
+   gilt ergänzend die gesetzliche Haftungsbeschränkung der §§ 521, 524 BGB.
+
+7. Beendigung
+   Diese Lizenz endet automatisch bei einem Verstoß. Du musst dann alle
+   Kopien der Software löschen.
+
+8. Datenschutz
+   Die Software arbeitet offline. Sie überträgt keine Scan-Ergebnisse oder
+   personenbezogenen Daten an den Lizenzgeber oder Dritte. Nur Aktionen, die
+   du ausdrücklich startest (z. B. Paketlisten aktualisieren), kontaktieren
+   die auf deinem System eingerichteten Update-Server.
+
+9. Schlussbestimmungen
+   Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des
+   UN-Kaufrechts, soweit nicht zwingendes Verbraucherschutzrecht deines
+   Wohnsitzlandes etwas anderes vorsieht. Sollte eine Bestimmung unwirksam
+   sein, bleiben die übrigen Bestimmungen wirksam.
