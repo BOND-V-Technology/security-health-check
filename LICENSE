@@ -1,192 +1,107 @@
-Security Health Check — Freeware License Agreement (EULA)
-Copyright 2026 s9881. All rights reserved.
+Security Health Check – Freeware License Agreement
 
-English version below; deutsche Fassung weiter unten. If the versions
-differ, the German version prevails for users in Germany, Austria and
-Switzerland; otherwise the English version prevails.
+Copyright (c) 2026 s9881. All rights reserved.
 
-===============================================================================
-ENGLISH
-===============================================================================
+SPDX-License-Identifier: LicenseRef-s9881-Freeware
 
-1. Licensor and software
-   "Software" means the Security Health Check desktop application, the
-   security-health-check command-line tool, the bundled collector scripts,
-   documentation and all updates provided by s9881 ("Licensor").
+PLEASE READ THIS AGREEMENT CAREFULLY. BY DOWNLOADING, INSTALLING, COPYING
+OR USING THE SOFTWARE YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT
+AGREE, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE.
+
+1. Definitions
+   "Software" means Security Health Check in source or binary form, together with any
+   documentation, data files, updates and related materials made available
+   by the Author. "Author" means s9881, the copyright holder. "You" means
+   the individual or legal entity using the Software.
 
 2. License grant
-   The Licensor grants you a free, non-exclusive, non-transferable,
-   revocable license to install and use the Software on devices that you
-   own or are authorized to administer, for private and commercial
-   purposes.
+   Subject to the terms of this agreement, the Author grants You a free of
+   charge, non-exclusive, non-transferable, non-sublicensable, worldwide
+   license to download, install and use the Software for private and
+   commercial purposes.
 
 3. Restrictions
-   You may not, except where mandatory law expressly permits it:
-   a) modify, translate, decompile, disassemble or otherwise reverse
-      engineer the Software, or create derivative works of it;
-   b) sell, rent, lease, sublicense or charge any fee for the Software;
-   c) redistribute the Software, except as the unmodified original
-      installation packages together with this license, and only free of
-      charge;
-   d) remove or alter copyright notices, this license or the third-party
-      notices;
-   e) present the Software, or any part of it, as your own product or as a
-      product of anyone other than the Licensor;
-   f) use the Software to examine systems you do not own or are not
-      authorized to examine.
+   Without the prior written permission of the Author, You may not:
+   a) sell, rent, lease, license or otherwise charge a fee for the Software;
+   b) distribute, publish or make the Software available to third parties,
+      other than by referring them to the official download location;
+   c) modify, translate, adapt or create derivative works of the Software;
+   d) decompile, disassemble or reverse engineer the Software, except to the
+      extent that such restriction is prohibited by applicable law;
+   e) remove, alter or obscure any copyright, license or proprietary notice.
+   Where source code is made publicly available, it is provided for review
+   and transparency only and does not grant any additional rights.
 
-4. Third-party components
-   The Software contains open-source components (for example Flutter, the
-   Dart runtime and Dart packages). They are licensed under their own
-   licenses, which are shown in the application under "Open Source
-   Licenses", printed by "security-health-check licenses --full" and
-   included in THIRD_PARTY_NOTICES.md. Those licenses take precedence for
-   the respective components; this agreement does not restrict rights you
-   have under them.
+4. Ownership
+   The Software is licensed, not sold. The Author retains all right, title
+   and interest in and to the Software, including all intellectual property
+   rights. All rights not expressly granted are reserved.
 
-5. Use entirely at your own risk; no warranty
-   The Software is a free gift provided "AS IS" and "AS AVAILABLE", without
-   any warranty, guarantee or condition of any kind, express or implied,
-   including merchantability, fitness for a particular purpose, accuracy,
-   completeness or security of results, and freedom from errors or viruses.
-   Results are indicators only and may be incomplete or wrong; a clean
-   result does not mean that a system is secure. Suggested commands can
-   change system settings, interrupt services or remote access, delete data
-   or make a system unbootable.
-   You alone decide whether and how to use the Software and its results and
-   whether to run any command, and you alone bear the entire risk and the
-   entire responsibility for this. You are responsible for making backups
-   before any change. The Licensor has no obligation to provide support,
-   updates, corrections or maintenance.
+5. Third-party components
+   The Software includes third-party components that are licensed under
+   their own terms (see THIRD_PARTY_NOTICES.md). Those terms take precedence
+   over this agreement for the respective components. Nothing in this
+   agreement restricts any rights granted to You by those licenses, for
+   example the right to replace or modify libraries licensed under the
+   GNU Lesser General Public License (LGPL).
 
-6. Exclusion of liability
-   The Licensor (s9881) accepts no liability whatsoever, on any legal
-   ground (contract, tort or otherwise), for any damage or loss of any kind,
-   including direct, indirect, incidental or consequential damage, data
-   loss, lost profits, downtime, hardware or system damage, security
-   incidents or claims of third parties, arising from the use of, the
-   inability to use, or reliance on the Software, its results or the
-   commands it suggests. This also applies to the Licensor's
-   representatives and agents.
-   This exclusion applies to the fullest extent permitted by law. It does
-   not apply only where liability cannot be excluded by law (under German
-   law: intent, gross negligence, injury to life, body or health, and the
-   Product Liability Act); in those cases liability is limited to the
-   minimum required by law.
-   To the extent permitted by law, you indemnify the Licensor against all
-   claims of third parties arising from your use of the Software or from
-   commands you run.
+6. No support, no obligation to update
+   The Author has no obligation to provide support, maintenance, updates,
+   corrections or any other services. The Author may change, suspend or
+   discontinue the Software at any time without notice.
 
-7. Termination
-   This license ends automatically if you breach it. You must then delete
-   all copies of the Software.
+7. Disclaimer of warranty
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY
+   WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+   NON-INFRINGEMENT, ACCURACY, RELIABILITY, AVAILABILITY OR ERROR-FREE AND
+   UNINTERRUPTED OPERATION. NO ADVICE OR INFORMATION, WHETHER ORAL OR
+   WRITTEN, OBTAINED FROM THE AUTHOR CREATES ANY WARRANTY.
 
-8. Privacy
-   The Software works offline. It does not transmit scan results or
-   personal data to the Licensor or third parties. Only actions that you
-   start explicitly (for example refreshing package lists) contact the
-   update servers configured on your system.
+8. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY CLAIM, LOSS OR DAMAGE
+   OF ANY KIND, WHETHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+   EXEMPLARY OR PUNITIVE, INCLUDING WITHOUT LIMITATION LOSS OF DATA, PROFITS,
+   REVENUE, BUSINESS OR GOODWILL, DAMAGE TO HARDWARE, VEHICLES, NETWORKS OR
+   OTHER PROPERTY, SECURITY INCIDENTS, BUSINESS INTERRUPTION OR PERSONAL
+   INJURY, ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE OR
+   INABILITY TO USE, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY,
+   WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR
+   OTHERWISE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF
+   SUCH DAMAGE.
+   WHERE APPLICABLE LAW DOES NOT ALLOW THE EXCLUSION OR LIMITATION OF
+   CERTAIN LIABILITY, THE AUTHOR'S LIABILITY IS LIMITED TO THE SMALLEST
+   EXTENT PERMITTED BY THAT LAW. BECAUSE THE SOFTWARE IS PROVIDED FREE OF
+   CHARGE, THE AUTHOR'S TOTAL AGGREGATE LIABILITY, WHERE IT CANNOT BE
+   EXCLUDED, SHALL NOT EXCEED ZERO (0) OR, IF A HIGHER MINIMUM IS REQUIRED
+   BY LAW, THAT MINIMUM AMOUNT.
 
-9. Final provisions
-   The law of the Federal Republic of Germany applies, excluding the UN
-   Convention on Contracts for the International Sale of Goods, unless
-   mandatory consumer protection law of your country of residence provides
-   otherwise. If a provision is invalid, the remaining provisions stay in
-   effect, and the invalid provision applies to the greatest extent the law
-   permits.
+9. Use at your own risk
+   You use the Software entirely at your own risk and are solely responsible
+   for its installation, configuration and use, for verifying all results,
+   for backing up Your data and for complying with all laws and regulations
+   that apply to You. The Software is not designed or intended for use in
+   safety-critical environments, and its results must not be relied upon as
+   the sole basis for decisions that could cause harm to persons, property,
+   vehicles, data or systems.
 
-===============================================================================
-DEUTSCH
-===============================================================================
+10. Indemnification
+   To the extent permitted by applicable law, You agree to indemnify and hold
+   harmless the Author from any claims, damages, losses, costs and expenses
+   (including reasonable legal fees) brought by third parties that arise
+   from Your use of the Software or Your breach of this agreement.
 
-1. Lizenzgeber und Software
-   „Software" bezeichnet die Desktop-Anwendung Security Health Check, das
-   Kommandozeilen-Werkzeug security-health-check, die mitgelieferten
-   Prüfskripte, die Dokumentation sowie alle Updates von s9881
-   („Lizenzgeber").
+11. Termination
+   This license terminates automatically and without notice if You breach
+   any of its terms. Upon termination You must stop using the Software and
+   delete all copies in Your possession. Sections 4 and 7 to 12 survive
+   termination.
 
-2. Nutzungsrecht
-   Der Lizenzgeber räumt dir ein kostenloses, einfaches, nicht übertragbares
-   und widerrufliches Recht ein, die Software auf Geräten zu installieren
-   und zu nutzen, die dir gehören oder die du administrieren darfst – privat
-   und gewerblich.
-
-3. Einschränkungen
-   Soweit zwingendes Recht es nicht ausdrücklich erlaubt, ist es nicht
-   gestattet:
-   a) die Software zu verändern, zu übersetzen, zu dekompilieren, zu
-      disassemblieren oder anderweitig zurückzuentwickeln oder abgeleitete
-      Werke zu erstellen;
-   b) die Software zu verkaufen, zu vermieten, zu verleasen, unterzulizenzieren
-      oder dafür Entgelt zu verlangen;
-   c) die Software weiterzugeben, außer als unveränderte Original-
-      Installationspakete zusammen mit dieser Lizenz und nur unentgeltlich;
-   d) Urheberrechtshinweise, diese Lizenz oder die Drittanbieter-Hinweise zu
-      entfernen oder zu verändern;
-   e) die Software oder Teile davon als eigenes Produkt oder als Produkt
-      einer anderen Person als des Lizenzgebers auszugeben;
-   f) die Software zur Prüfung von Systemen zu verwenden, die dir nicht
-      gehören oder für die du keine Berechtigung hast.
-
-4. Drittkomponenten
-   Die Software enthält Open-Source-Komponenten (z. B. Flutter, die
-   Dart-Laufzeit und Dart-Pakete). Für sie gelten ihre eigenen Lizenzen, die
-   in der Anwendung unter „Open-Source-Lizenzen" angezeigt, mit
-   „security-health-check licenses --full" ausgegeben und in
-   THIRD_PARTY_NOTICES.md mitgeliefert werden. Für die jeweiligen Komponenten
-   gehen diese Lizenzen vor; Rechte, die du nach ihnen hast, schränkt dieser
-   Vertrag nicht ein.
-
-5. Nutzung vollständig auf eigenes Risiko; keine Gewährleistung
-   Die Software wird als unentgeltliche Schenkung „wie besehen" und „wie
-   verfügbar" bereitgestellt, ohne jegliche Gewährleistung, Garantie oder
-   Zusicherung, ausdrücklich oder stillschweigend, insbesondere ohne
-   Gewähr für Marktgängigkeit, Eignung für einen bestimmten Zweck,
-   Richtigkeit, Vollständigkeit oder Sicherheit der Ergebnisse sowie
-   Fehler- oder Virenfreiheit. Ergebnisse sind nur Hinweise und können
-   unvollständig oder falsch sein; ein unauffälliges Ergebnis bedeutet nicht,
-   dass ein System sicher ist. Vorgeschlagene Befehle können
-   Systemeinstellungen ändern, Dienste oder Fernzugriffe unterbrechen, Daten
-   löschen oder ein System unbootbar machen.
-   Allein du entscheidest, ob und wie du die Software und ihre Ergebnisse
-   nutzt und ob du Befehle ausführst, und allein du trägst dafür das gesamte
-   Risiko und die gesamte Verantwortung. Du bist selbst dafür verantwortlich,
-   vor jeder Änderung Sicherungskopien anzulegen. Der Lizenzgeber ist nicht
-   verpflichtet, Support, Updates, Fehlerbehebungen oder Wartung zu leisten.
-
-6. Haftungsausschluss
-   Der Lizenzgeber (s9881) übernimmt keinerlei Haftung, gleich aus welchem
-   Rechtsgrund (Vertrag, Delikt oder sonstigem), für Schäden oder Verluste
-   jeder Art, einschließlich unmittelbarer und mittelbarer Schäden,
-   Folgeschäden, Datenverlust, entgangenen Gewinns, Ausfallzeiten, Schäden an
-   Hardware oder Systemen, Sicherheitsvorfällen oder Ansprüchen Dritter, die
-   aus der Nutzung, der Nichtnutzbarkeit oder dem Vertrauen auf die Software,
-   ihre Ergebnisse oder die vorgeschlagenen Befehle entstehen. Dies gilt auch
-   für Vertreter und Erfüllungsgehilfen des Lizenzgebers.
-   Dieser Ausschluss gilt im größtmöglichen gesetzlich zulässigen Umfang. Er
-   gilt nur dort nicht, wo das Gesetz eine Haftung zwingend vorschreibt und
-   ihren Ausschluss nicht erlaubt (nach deutschem Recht: Vorsatz, grobe
-   Fahrlässigkeit, Verletzung von Leben, Körper oder Gesundheit sowie das
-   Produkthaftungsgesetz); in diesen Fällen ist die Haftung auf das
-   gesetzlich zwingende Mindestmaß beschränkt (bei unentgeltlicher
-   Überlassung insbesondere §§ 521, 524 BGB).
-   Soweit gesetzlich zulässig, stellst du den Lizenzgeber von allen
-   Ansprüchen Dritter frei, die aus deiner Nutzung der Software oder aus von
-   dir ausgeführten Befehlen entstehen.
-
-7. Beendigung
-   Diese Lizenz endet automatisch bei einem Verstoß. Du musst dann alle
-   Kopien der Software löschen.
-
-8. Datenschutz
-   Die Software arbeitet offline. Sie überträgt keine Scan-Ergebnisse oder
-   personenbezogenen Daten an den Lizenzgeber oder Dritte. Nur Aktionen, die
-   du ausdrücklich startest (z. B. Paketlisten aktualisieren), kontaktieren
-   die auf deinem System eingerichteten Update-Server.
-
-9. Schlussbestimmungen
-   Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des
-   UN-Kaufrechts, soweit nicht zwingendes Verbraucherschutzrecht deines
-   Wohnsitzlandes etwas anderes vorsieht. Sollte eine Bestimmung unwirksam
-   sein, bleiben die übrigen Bestimmungen wirksam, und die unwirksame
-   Bestimmung gilt im größtmöglichen gesetzlich zulässigen Umfang.
+12. General
+   If any provision of this agreement is held invalid or unenforceable, it
+   shall be enforced to the maximum extent permissible and the remaining
+   provisions remain in full force and effect. This agreement constitutes
+   the entire agreement between You and the Author regarding the Software
+   and supersedes all prior terms. No waiver of any right is effective
+   unless made in writing by the Author.
