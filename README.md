@@ -13,10 +13,8 @@
   <a href="../../releases/latest"><img alt="Download" src="https://img.shields.io/badge/download-latest%20release-2ea44f"></a>
   <img alt="Freeware" src="https://img.shields.io/badge/license-freeware-blue">
   <img alt="Platforms" src="https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-informational">
-  <img alt="Languages" src="https://img.shields.io/badge/UI-English%20%7C%20Deutsch-informational">
+  <img alt="Languages" src="https://img.shields.io/badge/UI-multilingual-informational">
 </p>
-
-<p align="center"><a href="README.de.md">🇩🇪 Deutsche Version</a></p>
 
 ![Dashboard](docs/screenshots/dashboard-en.png)
 
@@ -48,9 +46,9 @@ Check your download with the `SHA256SUMS` file. Some checks need administrator r
 - ⌨️ **Command-line tool** — `security-health-check scan` for servers, monitoring and scheduled scans.
 - 🌍 **English & Deutsch** — switch in *Settings*.
 
-| Startup notice | German interface | Open-source licenses |
-| --- | --- | --- |
-| ![Startup notice](docs/screenshots/startup-notice.png) | ![German](docs/screenshots/dashboard-de.png) | ![Licenses](docs/screenshots/open-source-licenses.png) |
+| Startup notice | Open-source licenses |
+| --- | --- |
+| ![Startup notice](docs/screenshots/startup-notice.png) | ![Licenses](docs/screenshots/open-source-licenses.png) |
 
 ## Privacy
 
@@ -58,7 +56,11 @@ The app works completely offline: it only examines the computer it runs on, neve
 
 ## License
 
-**Freeware** — © 2026 s9881. All rights reserved. Free to use privately and commercially under the [license agreement](LICENSE). Modification, decompilation, resale and redistribution under another name are not permitted. The source code is not published.
+**Freeware** — © 2026 s9881. All rights reserved.
+
+Free to use for private and commercial purposes under the [Freeware License Agreement](LICENSE). Selling, redistributing, modifying or decompiling the software is not permitted without written permission. The source code is not published.
+
+The software is provided **"AS IS", without warranty of any kind**. To the maximum extent permitted by applicable law, the author accepts **no liability** for any damage or loss arising from its use. You use it entirely at your own risk.
 
 The program contains open-source components (Flutter, Dart and others). Their licenses are shown in the app under *More actions › Open Source Licenses*, printed by `security-health-check licenses --full`, and listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
