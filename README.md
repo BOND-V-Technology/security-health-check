@@ -5,7 +5,8 @@
 <h1 align="center">Security Health Check</h1>
 
 <p align="center">
-  <b>Offline security health check for Linux, macOS and Windows.</b><br>
+  <b>Offline home security check for your own Linux, macOS and Windows computers and your home network.</b><br>
+  <b>For private home use only – not for companies or other organisations.</b><br>
   See your computer's security state at a glance, understand every finding and fix issues step by step — no cloud, no account, no telemetry.
 </p>
 
@@ -18,7 +19,19 @@
 
 ![Dashboard](docs/screenshots/dashboard-en.png)
 
+> **Made for home use only.** Security Health Check is a home security tool for private people who want to check their own computers and their own home network. It is **not** made, tested or intended for companies, public authorities, schools, associations or other organisations, nor for professional, commercial or critical use (for example audits, penetration tests, forensics, compliance, monitoring of employees or customers, or industrial and medical systems). It does not replace professional security products or advice.
+>
 > **Use at your own risk.** Security Health Check is free software provided "AS IS". Results are indicators, not guarantees, and suggested commands can change your system. You accept this on every start. See [LICENSE](LICENSE).
+
+## Who is it for?
+
+| ✅ Made for | ❌ Not made for |
+| --- | --- |
+| Private people at home | Companies, self-employed work and offices |
+| Your own PC, laptop, home server or NAS | Public authorities, schools, hospitals, associations |
+| Your own home network and Wi-Fi | Networks or devices of employers, customers or other people |
+| Learning what happens in your home network | Audits, penetration tests, forensics, compliance or legal evidence |
+| | Industrial, medical or other critical systems |
 
 ## Download
 
@@ -43,7 +56,7 @@ Check your download with the `SHA256SUMS` file. Some checks need administrator r
 - 🔍 **Many checks** — firewall, open ports, services, startup items, accounts, SSH keys, processes, updates, disk encryption, Secure Boot, SIP/Gatekeeper/FileVault, Defender/BitLocker/UAC, Docker, password policy, backups.
 - ✅ **Accepted risks** — document a decision with reason and expiry date.
 - 📄 **Reports** — PDF, text, JSON, Markdown, CSV and SARIF.
-- ⌨️ **Command-line tool** — `security-health-check scan` for servers, monitoring and scheduled scans.
+- ⌨️ **Command-line tool** — `security-health-check scan` for a home server or NAS and for scheduled scans.
 - 🌍 **English & Deutsch** — switch in *Settings*.
 
 | Startup notice | Open-source licenses |
@@ -58,7 +71,7 @@ The app works completely offline: it only examines the computer it runs on, neve
 
 **Freeware** — © 2026 s9881. All rights reserved.
 
-Free to use for private and commercial purposes under the [Freeware License Agreement](LICENSE). Selling, redistributing, modifying or decompiling the software is not permitted without written permission. The source code is not published.
+Free to use under the [Freeware License Agreement](LICENSE). The software is made and intended only for private home use (see [Who is it for?](#who-is-it-for)); it is not offered for companies or other organisations. Selling, redistributing, modifying or decompiling the software is not permitted without written permission. The source code is not published.
 
 The software is provided **"AS IS", without warranty of any kind**. To the maximum extent permitted by applicable law, the author accepts **no liability** for any damage or loss arising from its use. You use it entirely at your own risk.
 
