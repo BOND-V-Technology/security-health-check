@@ -1,0 +1,27 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Logs, temporary files and local configuration
+*.log
+*.tmp
+*.bak
+.env
+.env.*
+
+# Build output (this repository contains information only)
+build/
+dist/
+
+# Secrets, signing material, logs and generated files (publication policy)
+*.jks
+*.keystore
+key.properties
+*.p12
+*.pfx
+*.p8
+*.mobileprovision
+**/Flutter/ephemeral/
