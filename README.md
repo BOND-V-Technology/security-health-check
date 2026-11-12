@@ -83,7 +83,7 @@ The app works completely offline: it only examines the computer it runs on, neve
 
 ## License
 
-**Freeware** — © 2026 s9881. All rights reserved.
+**Freeware** — © 2026 v98881. All rights reserved.
 
 Free to use under the [Freeware License Agreement](LICENSE). The software is made and intended only for private home use (see [Who is it for?](#who-is-it-for)); it is not offered for companies or other organisations. Selling, redistributing, modifying or decompiling the software is not permitted without written permission. The source code is not published.
 
