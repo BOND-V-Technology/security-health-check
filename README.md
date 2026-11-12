@@ -23,6 +23,20 @@
 >
 > **Use at your own risk.** Security Health Check is free software provided "AS IS". Results are indicators, not guarantees, and suggested commands can change your system. You accept this on every start. See [LICENSE](LICENSE).
 
+## Why this app?
+
+**Cyber attacks are increasing all over the world, and they no longer stop at the front door.** That is why it matters more than ever to protect the network in every single home. Security grows from the bottom up: every home that is a little safer makes the whole internet a little safer.
+
+- **Your home is part of the internet.** Banking, work from home, health data, family photos, the children's tablets, the camera at the door and the TV all share one network. What happens there is worth protecting.
+- **Nobody checks it for you.** A company has an IT department. At home there is only you. This app is the second pair of eyes that looks at your computers and your home network and tells you what it sees.
+- **Understanding is the best protection.** Every finding is explained in plain words: what it means, why it matters and what you can do. You do not have to be an expert, and you learn something with every check.
+- **Protecting yourself protects others.** Unprotected home devices are taken over and used to attack other people. Every router, camera and computer that is looked after is one device less in the hands of attackers.
+- **Your data stays with you.** Everything runs offline on your own computer. No account, no cloud, no telemetry, no upload. A security tool should not be one more thing that watches you.
+- **Security should not depend on money.** The app is freeware: free of charge for everyone at home, under the license agreement in [LICENSE](LICENSE). It stands on open-source work and says thank you for it inside the app.
+- **Small steps count.** One closed port, one update, one changed password: every fix makes an attack a little harder. You do not have to do everything today – you only have to start.
+
+**Made for homes, and only for homes.** Security Health Check is built for private people, their own computers and their own home network. It is not suited for companies, public authorities or other organisations, and it does not replace professional security products or advice. It is an honest helper for the place where most of us are on our own: at home.
+
 ## Who is it for?
 
 | ✅ Made for | ❌ Not made for |
