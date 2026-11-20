@@ -26,6 +26,26 @@
 - 🗣️ **Plain words** – every finding says what it means, why it matters and what to do.
 - 🔒 **Nothing leaves your computer** – no cloud, no account, no telemetry.
 
+## 🌐 See your whole network
+
+Every device, every server, every connection – findings glow red.
+
+![Network map](docs/screenshots/network-map.png)
+
+## ▶️ Press play – watch the attack unfold
+
+Replay all threats step by step in time order, with pause, step and speed control.
+
+![Attack replay](docs/screenshots/attack-replay.png)
+
+| Threat topology | One step explained |
+| --- | --- |
+| ![Threat topology](docs/screenshots/threat-topology.png) | ![Replay step](docs/screenshots/attack-replay-step.png) |
+
+Or play back the whole capture on the network topology and see who talked to whom, and when.
+
+![Topology playback](docs/screenshots/topology-playback.png)
+
 ![Traffic analysis](docs/screenshots/traffic.png)
 
 ## 📦 Download
