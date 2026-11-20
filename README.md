@@ -81,16 +81,45 @@ Check your download with the `SHA256SUMS` file. Some checks need administrator r
 
 The app works completely offline: it only examines the computer it runs on, never scans other devices or networks, and sends no data anywhere. Only actions you start yourself (for example "Refresh package lists") contact your system's update servers, after showing the exact command and asking twice.
 
-## License
+## Status
 
-**Freeware** — © 2026 v98881. All rights reserved.
+Version 1.3.0. Actively maintained.
 
-Free to use under the [Freeware License Agreement](LICENSE). The software is made and intended only for private home use (see [Who is it for?](#who-is-it-for)); it is not offered for companies or other organisations. Selling, redistributing, modifying or decompiling the software is not permitted without written permission. The source code is not published.
+## Intended use
 
-The software is provided **"AS IS", without warranty of any kind**. To the maximum extent permitted by applicable law, the author accepts **no liability** for any damage or loss arising from its use. You use it entirely at your own risk.
+This software is intended exclusively for **personal, private, educational and other non-commercial use**, for example at home, for learning or for personal experimentation. It is not intended for commercial deployment, business operations, commercial services, resale, commercial redistribution or integration into third-party products. These restrictions are part of the [license agreement](LICENSE).
 
-The program contains open-source components (Flutter, Dart and others). Their licenses are shown in the app under *More actions › Open Source Licenses*, printed by `security-health-check licenses --full`, and listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+## System requirements
+
+- Linux (Debian, Ubuntu, Mint, Fedora/RHEL, openSUSE, Arch, Alpine), macOS 12 or later, or Windows 10/11 (64-bit)
+- Administrator rights for some checks; without them the affected results stay in *Review*
+
+## Installation
+
+Download the package for your system from the latest release of the public repository and verify it with `SHA256SUMS`. See *Download* above for the per-system steps.
+
+## Configuration
+
+No configuration file is needed. Language, simple/expert mode and accepted risks are set in the app under *Settings*; the command-line tool takes its options as arguments (`security-health-check --help`).
+
+## Usage example
+
+Start the app, accept the notice and click **Run scan**. Open a finding, read the explanation and use **Fix step by step** only after reviewing the suggested command. For servers: `security-health-check scan`.
 
 ## Support
 
 Found a problem? Open an [issue](../../issues). Please do not post personal data or full scan reports publicly.
+
+## License
+
+**Freeware for personal, non-commercial use** — © 2026 v98881. All rights reserved.
+
+The software may be used free of charge for personal, private, educational and other non-commercial purposes under the [license agreement](LICENSE). Commercial use, selling, redistributing, modifying or decompiling the software requires prior written permission. Third-party components remain under their own licenses (see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) where present); nothing in the license restricts the rights those licenses grant.
+
+## Disclaimer
+
+The software is provided **"AS IS"**, without warranty of any kind, and you use it at your own risk. To the extent that liability can legally be excluded, the author accepts no liability for any damage or loss arising from its use. Mandatory statutory rights remain unaffected. See [DISCLAIMER.md](DISCLAIMER.md).
+
+## Author
+
+**v98881** — see [PUBLICATION_POLICY.md](PUBLICATION_POLICY.md) and [SECURITY.md](SECURITY.md).
