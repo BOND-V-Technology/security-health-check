@@ -22,11 +22,11 @@
 
 - 🛡️ **One score, one look** – firewall, updates, SSH, accounts, open ports and more in a single dashboard.
 - 🪄 **Fix with one click** – safe fixes run right away; risky ones wait for your decision.
-- 🌐 **See your network** – open a Wireshark capture and spot port scans, clear-text passwords, ARP spoofing and suspicious check-ins.
 - 🗣️ **Plain words** – every finding says what it means, why it matters and what to do.
 - 🔒 **Nothing leaves your computer** – no cloud, no account, no telemetry.
+<!--- - 🌐 **See your network** – open a Wireshark capture and spot port scans, clear-text passwords, ARP spoofing and suspicious check-ins.-->
 
-## 🌐 See your whole network
+<!--## 🌐 See your whole network
 
 Every device, every server, every connection – findings glow red.
 
@@ -46,7 +46,7 @@ Or play back the whole capture on the network topology and see who talked to who
 
 ![Topology playback](docs/screenshots/topology-playback.png)
 
-![Traffic analysis](docs/screenshots/traffic.png)
+![Traffic analysis](docs/screenshots/traffic.png)-->
 
 ## 📦 Download
 
