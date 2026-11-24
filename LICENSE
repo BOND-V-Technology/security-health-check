@@ -1,0 +1,117 @@
+Security Health Check – Freeware License Agreement (Personal, Non-Commercial Use)
+
+Copyright (c) 2026 v98881. All rights reserved.
+
+SPDX-License-Identifier: LicenseRef-v98881-Freeware
+
+PLEASE READ THIS AGREEMENT CAREFULLY. BY DOWNLOADING, INSTALLING, COPYING
+OR USING THE SOFTWARE YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT
+AGREE, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE.
+
+1. Definitions
+   "Software" means Security Health Check in source or binary form, together with any
+   documentation, data files, updates and related materials made available
+   by the Author. "Author" means v98881, the copyright holder. "You" means
+   the individual using the Software. "Non-commercial use" means use by an
+   individual for personal, private, household, educational, learning or
+   experimental purposes that is not intended for or directed towards
+   commercial advantage or monetary compensation.
+
+2. License grant
+   Subject to the terms of this agreement, the Author grants You a free of
+   charge, non-exclusive, non-transferable, non-sublicensable, worldwide
+   license to download, install and use the Software for Non-commercial use
+   only. Any commercial use, including use in or for a business, the
+   provision of services to third parties, commercial deployment, resale,
+   commercial redistribution or integration into third-party products or
+   services, requires the prior written permission of the Author.
+
+3. Restrictions
+   Without the prior written permission of the Author, You may not:
+   a) sell, rent, lease, license or otherwise charge a fee for the Software;
+   b) distribute, publish or make the Software available to third parties,
+      other than by referring them to the official download location;
+   c) modify, translate, adapt or create derivative works of the Software;
+   d) decompile, disassemble or reverse engineer the Software, except to the
+      extent that such restriction is prohibited by applicable law;
+   e) remove, alter or obscure any copyright, license or proprietary notice;
+   f) use the Software for any purpose other than Non-commercial use.
+   Where source code is made publicly available, it is provided for review
+   and transparency only and does not grant any additional rights.
+
+4. Ownership
+   The Software is licensed, not sold. The Author retains all right, title
+   and interest in and to the Software, including all intellectual property
+   rights. All rights not expressly granted are reserved.
+
+5. Third-party components
+   The Software includes third-party components that are licensed under
+   their own terms (see THIRD_PARTY_NOTICES.md). Those terms take precedence
+   over this agreement for the respective components. Nothing in this
+   agreement restricts any rights granted to You by those licenses, for
+   example the right to replace or modify libraries licensed under the
+   GNU Lesser General Public License (LGPL).
+
+6. No support, no obligation to update
+   The Author has no obligation to provide support, maintenance, updates,
+   corrections or any other services. The Author may change, suspend or
+   discontinue the Software at any time without notice.
+
+7. Disclaimer of warranty
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY
+   WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+   NON-INFRINGEMENT, ACCURACY, RELIABILITY, AVAILABILITY OR ERROR-FREE AND
+   UNINTERRUPTED OPERATION. NO ADVICE OR INFORMATION, WHETHER ORAL OR
+   WRITTEN, OBTAINED FROM THE AUTHOR CREATES ANY WARRANTY.
+
+8. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY CLAIM, LOSS OR DAMAGE
+   OF ANY KIND, WHETHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+   EXEMPLARY OR PUNITIVE, INCLUDING WITHOUT LIMITATION LOSS OF DATA, PROFITS,
+   REVENUE, BUSINESS OR GOODWILL, DAMAGE TO HARDWARE, VEHICLES, NETWORKS OR
+   OTHER PROPERTY, SECURITY INCIDENTS, BUSINESS INTERRUPTION OR PERSONAL
+   INJURY, ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE OR
+   INABILITY TO USE, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY,
+   WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR
+   OTHERWISE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF
+   SUCH DAMAGE.
+   WHERE APPLICABLE LAW DOES NOT ALLOW THE EXCLUSION OR LIMITATION OF
+   CERTAIN LIABILITY, THE AUTHOR'S LIABILITY IS LIMITED TO THE SMALLEST
+   EXTENT PERMITTED BY THAT LAW. BECAUSE THE SOFTWARE IS PROVIDED FREE OF
+   CHARGE, THE AUTHOR'S TOTAL AGGREGATE LIABILITY, WHERE IT CANNOT BE
+   EXCLUDED, SHALL NOT EXCEED ZERO (0) OR, IF A HIGHER MINIMUM IS REQUIRED
+   BY LAW, THAT MINIMUM AMOUNT.
+   Nothing in this agreement excludes or limits any liability, warranty or
+   statutory right that cannot be excluded or limited under the law that
+   applies to You.
+
+9. Use at your own risk
+   You use the Software entirely at your own risk and are solely responsible
+   for its installation, configuration and use, for verifying all results,
+   for backing up Your data and for complying with all laws and regulations
+   that apply to You. The Software is not designed or intended for use in
+   safety-critical environments, and its results must not be relied upon as
+   the sole basis for decisions that could cause harm to persons, property,
+   vehicles, data or systems.
+
+10. Indemnification
+   To the extent permitted by applicable law, You agree to indemnify and hold
+   harmless the Author from any claims, damages, losses, costs and expenses
+   (including reasonable legal fees) brought by third parties that arise
+   from Your use of the Software or Your breach of this agreement.
+
+11. Termination
+   This license terminates automatically and without notice if You breach
+   any of its terms. Upon termination You must stop using the Software and
+   delete all copies in Your possession. Sections 4 and 7 to 12 survive
+   termination.
+
+12. General
+   If any provision of this agreement is held invalid or unenforceable, it
+   shall be enforced to the maximum extent permissible and the remaining
+   provisions remain in full force and effect. This agreement constitutes
+   the entire agreement between You and the Author regarding the Software
+   and supersedes all prior terms. No waiver of any right is effective
+   unless made in writing by the Author.
